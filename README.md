@@ -1,1 +1,1 @@
-spam or non spam
+spam or non 
